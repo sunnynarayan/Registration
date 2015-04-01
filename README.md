@@ -1,0 +1,1 @@
+A sample registration page which uploads files and other data with same form. The page doesn't load in the entire process. There are no security for file check except its size and extension name.
